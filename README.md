@@ -18,3 +18,6 @@ The purpose of this device is to detect close objects and alert the user using l
 1x Arduino Uno (or comparable board)
 
 1x 9V battery
+
+## Schematic
+![image](https://github.com/grahamtsmith318/Proximity-Detector/assets/161498179/34d964cb-ea53-4bad-9ba6-727e3ec8990e)
