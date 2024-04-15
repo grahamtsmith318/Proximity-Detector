@@ -20,4 +20,12 @@ The purpose of this device is to detect close objects and alert the user using l
 1x 9V battery
 
 ## Schematic
-![image](https://github.com/grahamtsmith318/Proximity-Detector/assets/161498179/34d964cb-ea53-4bad-9ba6-727e3ec8990e)
+![Schematic](https://github.com/grahamtsmith318/Proximity-Detector/assets/161498179/34d964cb-ea53-4bad-9ba6-727e3ec8990e)
+
+## Breadboard Layout
+![Breadboard](https://github.com/grahamtsmith318/Proximity-Detector/assets/161498179/b663e5ee-b3c7-49c2-ac11-e9d3bba72684)
+
+## Perfboard
+![Full Device](https://github.com/grahamtsmith318/Proximity-Detector/assets/161498179/e8c42b8d-0c80-4c15-a18c-07be3415852a)
+![Perfboard Front](https://github.com/grahamtsmith318/Proximity-Detector/assets/161498179/b097f241-8494-4e71-bfb9-f8c50a70011d)
+![Perfboard Back](https://github.com/grahamtsmith318/Proximity-Detector/assets/161498179/75de4737-7f15-4bdc-9305-8e0abcad103d)
