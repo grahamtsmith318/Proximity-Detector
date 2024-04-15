@@ -2,7 +2,7 @@
 This repository contains the code for a simple proximity detector. Included in this readme file are diagrams and images of the board.
 
 ## Function
-The purpose of this device is to detect close objects and alert the user using lights and sound. An ultrasonic sensor detects objects in front of itself. When object comes within a meter of the sensor, the LEDs will light and the buzzer will sound. As the object approaches, more LEDs will light and the pitch of the sound of the buzzer with become higher. Each unlit LED represents 12.5 centimeters of space between the sensor and the approaching object.
+The purpose of this device is to detect close objects and alert the user using lights and sound. An ultrasonic sensor detects objects in front of itself. When an object comes within a meter of the sensor, the LEDs will light and the buzzer will sound. As the object approaches, more LEDs will light and the pitch of the sound of the buzzer with become higher. Each unlit LED represents 12.5 centimeters of space between the sensor and the approaching object.
 
 ## Components
 8x LEDs
